@@ -31,44 +31,77 @@ Enhanced accessibility to advanced diagnostic tools through mobile integration.
 📸 Screenshots
 
 ![Group 7](https://github.com/user-attachments/assets/e87c316b-b40f-4c1d-8988-20863731ee8f)
-![Group 7](https://github.com/user-attachments/assets/677e2f5e-4936-4a0b-aae6-4f71dfaa9519)
+
 
 
 🛠 How to Run
+
 Clone this repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/YourUsername/Skin-Cancer-Detection-System.git
+
 Navigate to the project directory:
+
 bash
+
 Copy code
+
 cd Skin-Cancer-Detection-System
+
 Install dependencies:
+
 For Python: Use requirements.txt to set up the environment.
+
 bash
+
 Copy code
+
 pip install -r requirements.txt
+
 For Flutter: Run the following command:
+
 bash
+
 Copy code
+
 flutter pub get
+
 Run the application:
+
 Backend: Start the Python server for model predictions.
+
 Frontend: Launch the Flutter app.
+
 📂 Project Structure
+
 bash
+
 Copy code
+
 Skin-Cancer-Detection-System/
+
 ├── models/               # Pretrained DenseNet201 model
+
 ├── app/                  # Flutter mobile app source code
+
 ├── dataset/              # Dataset used for training (if included)
+
 ├── requirements.txt      # Python dependencies
+
 ├── README.md             # Project documentation
+
 🌐 Live Demo / APK
+
 (Provide a link to a live demo or an APK file for users to test the application, if available.)
 
 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contributing
+
 Contributions are welcome! Feel free to submit a pull request or open an issue for improvements.
