@@ -42,7 +42,7 @@ bash
 
 Copy code
 
-git clone https://github.com/YourUsername/Skin-Cancer-Detection-System.git
+git clone https://github.com/SoftTac/Skin-Cancer-Detection-System
 
 Navigate to the project directory:
 
