@@ -94,13 +94,7 @@ Skin-Cancer-Detection-System/
 
 ├── README.md             # Project documentation
 
-🌐 Live Demo / APK
 
-(Provide a link to a live demo or an APK file for users to test the application, if available.)
-
-📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contributing
 
