@@ -1,7 +1,6 @@
 # SkinCAN AI: Advanced Skin Cancer Detection 🩺🤖  
 
-![iPhone 2](https://github.com/user-attachments/assets/e90f9884-6a15-4ec4-86f9-8e8ea473530b)
-
+<div align="center"> <img src="https://github.com/user-attachments/assets/7ef0d5fa-6399-4680-a985-c379970cbafd" width="300" alt="App Interface"> <img src="https://github.com/user-attachments/assets/e90f9884-6a15-4ec4-86f9-8e8ea473530b" width="300" alt="Analysis Screen"> </div>
 
 ## 🌟 **Project Highlights**  
 - **94.94% Accuracy** with DenseNet201 + Attention Module  
